@@ -9,7 +9,7 @@ namespace NameApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(new { name = "Your Name" });
+            return Ok(new { name = "Taka Kiuchi" });
         }
     }
 }
