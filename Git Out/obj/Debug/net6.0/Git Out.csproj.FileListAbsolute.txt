@@ -1,0 +1,27 @@
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\appsettings.Development.json
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\appsettings.json
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Git Out.exe
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Git Out.deps.json
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Git Out.runtimeconfig.json
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Git Out.dll
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Git Out.pdb
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\IT\IT\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.AssemblyReference.cache
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.AssemblyInfoInputs.cache
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.AssemblyInfo.cs
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.CoreCompileInputs.cache
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.MvcApplicationPartsAssemblyInfo.cs
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.MvcApplicationPartsAssemblyInfo.cache
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\staticwebassets.build.json
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\staticwebassets.development.json
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\scopedcss\bundle\Git Out.styles.css
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.CopyComplete
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.dll
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\refint\Git Out.dll
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.pdb
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\Git Out.genruntimeconfig.cache
+C:\IT\IT\Git Out\Git Out\obj\Debug\net6.0\ref\Git Out.dll
